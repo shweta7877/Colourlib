@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar > ul{
+    display: flex;
+    margin-left: 150px;
+}
+.navbar > ul > li{
+    list-style: none;
+    color: #563d7c;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}
+.banner{
+background: url('https://preview.colorlib.com/theme/confer/img/bg-img/1.jpg.webp');
+width: 100%;
+object-fit: contain;
+height: 1000px;
+}
